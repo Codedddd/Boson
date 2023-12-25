@@ -94,6 +94,7 @@ class createCLIMenu:
                     graph_title = pystyle.Write.Input(pystyle.Center.XCenter("\n\nPlease input a title graph\n\n> ") , color = pystyle.Colors.purple , interval = 0)
 
                     x.sort()
+                    y.sort()
                     x_minimum_value = min(x)-2
                     x_maximum_value = max(x)+2
                     y_minimum_value = min(y)-2 # We don't actually use this but I'll keep it here incase of a future update lol.
