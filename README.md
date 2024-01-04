@@ -2,7 +2,7 @@
 
 ![Jahy Loves Dem Boobies](https://media.tenor.com/a2MEQQU5jnMAAAAC/jahy-the-great-jahy-will-not-be-defeated.gif)
 
-##### >> Created by Coded.ari on Discord with
+##### >> Created by Coded.ari on Discord
 
 <br>
 
